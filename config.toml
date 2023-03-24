@@ -1,4 +1,4 @@
-baseURL = 'blog-8y5.pages.dev'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My Professional Blog'
 theme = "hugo-theme-m10c"
