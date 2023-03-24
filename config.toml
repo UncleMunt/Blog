@@ -1,0 +1,38 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My Professional Blog'
+theme = "hugo-theme-m10c"
+
+[params]
+  author = "Hunter Robertson"
+  description = "This is my first draft blog" 
+  avatar = "/images/Cloud.png"
+  menu_item_seporator = " - "
+  favicon = "/images/Cloud-favicon.png"
+
+[params.style]
+  darkestColor = "#0C0908"
+  darkColor = "#2A2D34"
+  lightColor = "#C9DAEA"
+  lightestColor = "#03F7EB"
+  primaryColor = "#3DDC97"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/UncleMunt"
+
+[[params.social]]
+  icon = "linkedin"
+  name = "My Linked"
+  url = "https://www.linkedin.com/in/hunter-robertson-014226252/"
+
+[[params.social]]
+  icon = "facebook"
+  name = "My Facebook"
+  url = "https://www.facebook.com/UncleMunt"
+
+[[params.social]]
+  icon = "instagram"
+  name = "My Insta"
+  url = "https://www.instagram.com/uncle_munt/"
