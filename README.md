@@ -9,7 +9,7 @@ To get started with My Blog, follow these steps:
 Download the project from GitHub or clone it using the following command:
 
 Copy code
-~ git clone https://github.com/<username>/<repository-name>.git
+~ git clone https://github.com/UncleMunt/Blog.git
 
 Install Hugo by following the official installation guide.
 Open a terminal or command prompt and navigate to the project directory.
